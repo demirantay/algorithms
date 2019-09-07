@@ -25,9 +25,4 @@ The only purpose of this project is to see if I can code these algorithms and DS
 
 <br>
 
-- For tests run:
-  ```
-  $ ...
-  ```
-
 - For Documentation: [Documentation](./docs/index.md)
