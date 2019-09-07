@@ -16,9 +16,14 @@ The only purpose of this project is to see if I can code these algorithms and DS
 
 - **Math**
   - [Factorial](./algorithms/math/factorial.py)
+  - [Fibonacci Number](./algorithms/math/fibonacci.py)
 
+
+<br>
 
 ---
+
+<br>
 
 - For tests run:
   ```
