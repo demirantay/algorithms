@@ -53,9 +53,14 @@
     - [ ] Breadth-First Search (BFS)
     - [ ] Kruskal’s Algorithm
   - Cryptography
-
+    - [ ] Polynomial Hash
   - Uncategorized
-
+    - [ ] Tower of Hanoi
+    - [ ] Square Matrix Rotation
+    - [ ] Jump Game
+    - [ ] Unique Paths
+    - [ ] Rain Terraces
+    - [ ] Recursive Staircase -
 
 <br>
 <br>
@@ -114,4 +119,7 @@
     - [ ] Eulerian Path and Eulerian Circuit
     - [ ] Hamiltonian Cycle
     - [ ] Strongly Connected Components
-    - [ ] Travelling Salesman Problem 
+    - [ ] Travelling Salesman Problem
+  - Uncategorized
+    - [ ] N-Queens Problem
+    - [ ] Knight's Tour

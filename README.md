@@ -17,6 +17,7 @@ The only purpose of this project is to see if I can code these algorithms and DS
 - **Math**
   - [Factorial](./algorithms/math/factorial/)
   - [Fibonacci Number](./algorithms/math/fibonacci/)
+  - [Prime Check](./algorithms/math/prime/)
 
 
 <br>
