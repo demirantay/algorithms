@@ -8,8 +8,8 @@ The only purpose of this project is to see if I can code these algorithms and DS
 
 ## Data Structures
 
-- [Queue](./data-structures/queue.py)  
-- [Stack](./data-structures/stack.py)
+- [Queue](./data-structures/queue/)  
+- [Stack](./data-structures/stack/)
 
 <br>
 
