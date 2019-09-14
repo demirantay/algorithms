@@ -8,7 +8,8 @@ The only purpose of this project is to see if I can code these algorithms and DS
 
 ## Data Structures
 
-- [Linked List](./data-structures/linked-list.py)  
+- [Queue](./data-structures/queue.py)  
+- [Stack](./data-structures/stack.py)
 
 <br>
 

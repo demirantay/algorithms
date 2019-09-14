@@ -1,6 +1,7 @@
 import unittest
 from fibonacci import fibonacci
 
+
 class TestFibonacci(unittest.TestCase):
 
     def test_fibonacci_sequence_with_5_numbers(self):
@@ -11,6 +12,7 @@ class TestFibonacci(unittest.TestCase):
 
     def test_fibonacci_sequence_with_9_numbers(self):
         self.assertEqual(fibonacci(9), [0, 1, 1, 2, 3, 5, 8, 13, 21])
+
 
 if __name__ == "__main__":
     unittest.main()

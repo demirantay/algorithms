@@ -1,10 +1,11 @@
 ## Basics:
 
 - data structs
+  - [x] queue
+  - [x] stack
   - [ ] linked list
   - [ ] doubly linked List
-  - [ ] queue
-  - [ ] stack
+  - [ ] circular linked list
   - [ ] hash table
   - [ ] heap
   - [ ] priority queue
