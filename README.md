@@ -10,6 +10,7 @@ The only purpose of this project is to see if I can code these algorithms and DS
 
 - [Queue](./data-structures/queue/)  
 - [Stack](./data-structures/stack/)
+- [Linked List](./data-structures/linked-list/)
 
 <br>
 
@@ -18,7 +19,6 @@ The only purpose of this project is to see if I can code these algorithms and DS
 - **Math**
   - [Factorial](./algorithms/math/factorial/)
   - [Fibonacci Number](./algorithms/math/fibonacci/)
-  - [Prime Check](./algorithms/math/prime/)
 
 
 <br>
