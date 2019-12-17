@@ -1,4 +1,4 @@
-# Algorithms in JavaScript
+# JavaScript
 
 ## Data Structures
 

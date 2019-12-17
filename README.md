@@ -7,18 +7,40 @@
 <p align="center">
   My implementation of algorithms and data structures in different programming languages.
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore the Documentation »</strong></a>
+  <a href="docs/index.md"><strong>Explore the Documentation »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
-  ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
 </p>
-
-> Note: The only purpose of this project is to see if I can code these algorithms and Data Structures, so note that this project's codebase is not intended for production-use.
 
 ## Navigation
 
+> Note: The only purpose of this project is to see if I can code these algorithms and Data Structures, so note that this project's codebase is not intended for production-use.
+
 - [Python](./python)
-- [JavaScript](./javascript)
-- [Go](./go)
+- [JavaScript](./javascript) (coming soon ...)
+- [Go](./go) (coming soon ...)
+
+## Documentation
+
+
+## Bugs and Feature Requests
+
+For reporting bugs: https://github.com/demirantay/algorithms/issues
+  - Please use the label `bug`
+
+For requesting features: https://github.com/demirantay/algorithms/issues
+  - Please use the label `feature`
+
+## Contributing
+
+The code is MIT licensed so you can fork this repository do whatever you would like with it, however I will not accept any contributions since this is just a educational project and not a production level one.
+
+## Authors
+
+**Demir Antay**
+    - Github: [@demirantay](https://github.com/demirantay)
+    - Email: demir99antay@gmail.com
+
+## Copyright and License
+
+The source code of this project is MIT Licensed.
