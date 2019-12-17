@@ -22,6 +22,8 @@
 
 ## Documentation
 
+You can view the [documentation here](./docs/index.md)
+
 
 ## Bugs and Feature Requests
 
