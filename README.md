@@ -1,48 +1,24 @@
-# algorithms-py
+<p align="center">
+    <img src="branding/logo.png" alt="Repository logo" width="72" height="72">
+</p>
 
-My implementation of algorithms and data structures in python. The code in this repository is no where complete. Plus, the algorithms that comes from mainstream popular packages are really optimized to the bones.
+<h3 align="center">Algorithms</h3>
 
-The only purpose of this project is to see if I can code these algorithms and DStructures, so note that this project is not intended for production-use.
+<p align="center">
+  My implementation of algorithms and data structures in different programming languages.
+  <br>
+  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore the Documentation »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+</p>
 
-<br>
+> Note: The only purpose of this project is to see if I can code these algorithms and Data Structures, so note that this project's codebase is not intended for production-use.
 
-## Data Structures
+## Navigation
 
-- [Queue](./data-structures/queue/)  
-- [Stack](./data-structures/stack/)
-- [Linked List](./data-structures/linked-list/)
-
-<br>
-
-## Algorithms
-
-- **Math**
-  - [Factorial](./algorithms/math/factorial/)
-  - [Fibonacci Number](./algorithms/math/fibonacci/)
-- **Sets**
-  - ...
-- **Strings**
-  - [Hamming Distance](./algorithms/strings/hamming_distance/)
-- **Searches**
-  - ...
-- **Sorting**
-  - ...
-- **Linked Lists**
-  - ...
-- **Trees**
-  - ...
-- **Graphs**
-  - ...
-- **Cryptography**
-  - ...
-- **Uncategorized**
-  - ...
-
-
-<br>
-
----
-
-<br>
-
-- For Documentation: [Documentation](./docs/index.md)
+- [Python](./python)
+- [JavaScript](./javascript)
+- [Go](./go)

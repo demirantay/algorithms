@@ -1,13 +1,13 @@
 ## Basics:
 
-- Apart from the list of algortihms and data structures to impelement down 
+- Apart from the list of algortihms and data structures to impelement down
   below I will also make an app (probably it will be a directory) to meas-
   -ure the `time complexity` and `space complexity` of the given ds and a-
   -lgorithms. I will import the data strcutres and algos from the implemen
-  -tations that I have made down below (dont forget to use notations such 
+  -tations that I have made down below (dont forget to use notations such
   as theta, omega, big O ... etc.):
   	- [ ] Measure Time Complexity of Algorithms and Data Structures
-        - [ ] Measure Space Complexity of Algorithms and Data Structures	
+        - [ ] Measure Space Complexity of Algorithms and Data Structures
 
 --------------
 
@@ -40,7 +40,7 @@
     - [ ] Cartesian Product
     - [ ] Fisher–Yates Shuffle
   - Strings:
-    - [ ] Hamming Distance
+    - [x] Hamming Distance
   - Searches:
     - [ ] Linear Search
     - [ ] jump search
