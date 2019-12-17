@@ -35,7 +35,7 @@ For requesting features: https://github.com/demirantay/algorithms/issues
 
 ## Contributing
 
-The code is MIT licensed so you can fork this repository do whatever you would like with it, however I will not accept any contributions since this is just a educational project and not a production level one.
+The code is MIT licensed so you can fork this repository and do whatever you would like with it, however I will not accept any contributions since this is just a educational project for myself and not a production level one.
 
 ## Authors
 
