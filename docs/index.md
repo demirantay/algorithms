@@ -7,6 +7,9 @@ And than I will implement it in python to let the use see a code exmaple, I can 
 ## Data Structures
 
 - [Queue](./queue.md)
+- [Stack](./stack.md)
+- [Linked List](./linked-list.md)
+- [Doubly Linked List](./doubly-linked-list.md) 
 
 <br>
 

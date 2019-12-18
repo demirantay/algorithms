@@ -9,7 +9,6 @@
   - [ ] stack
   - [ ] linked list
   - [ ] doubly linked List
-  - [ ] circular linked list
   - [ ] hash table
   - [ ] heap
   - [ ] priority queue
