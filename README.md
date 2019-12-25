@@ -7,7 +7,7 @@
 <p align="center">
   My implementation of algorithms and data structures in different programming languages.
   <br>
-  <a href="docs/index.md"><strong>Explore the Documentation »</strong></a>
+  <a href=" https://demirantay.github.io/algorithms/"><strong>Visit the app »</strong></a>
   <br>
   <br>
 </p>
