@@ -38,6 +38,16 @@
 */
 
 
+
+/* Possible color pallette for the site
+
+white :     #FFFFFF
+dark white: #f9f6f7
+beige:      #ffe8d6
+orange:     #ff971d
+
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -48,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #363434;
 }
 
-p {
+p, a {
   font-family: 'Roboto', serif;
   font-size: 14px;
   color: #363434;
@@ -57,7 +67,58 @@ p {
 .container {
   width: 100%;
   height: 100vh;
-  background-color: black;
+  background-color: #FFFEFF;
+}
+
+.landing-page-top-nav {
+  padding-top: 30px;
+  padding-left: 15%;
+  padding-right: 15%:
+  border: 1px solid red;
+  margin-bottom: 40px;
+}
+
+.landing-page-top-nav img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.landing-page-top-nav a {
+  display: inline-block;
+  color: #232b2b;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.landing-page-top-nav a:hover {
+    color: #ff971d;
+    transition: 0.3s;
+}
+
+.landing-page-top-nav-block-links {
+  float: right;
+  margin-right: 10%;
+}
+
+.landing-page-content-card {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.algorithm-visualization-cell {
+  height: 200px;
+  width: 300px;
+  background-color: #ff971d;
+  border: 2px solid #232b2b;
+}
+
+.algorithm-visualization-cell:hover {
+  transition: 0.2s;
+  cursor: pointer;
+  border-color: #ff971d;
+  border-style: dashed;
 }
 
 
