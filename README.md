@@ -14,6 +14,11 @@
 
 ## Navigation
 
+
+> RE STRUCTURE THIS I MOVED VISUALIZATION TO THIS REPO SIMPLYFY THIS REPOS STRUCTURE AND MAKE IT MORE FRONTEND HTML CSS JS CENTRIC
+
+
+
 > Note: The only purpose of this project is to see if I can code these algorithms and Data Structures, so note that this project's codebase is not intended for production-use.
 
 - [Python](./python)
