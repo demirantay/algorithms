@@ -45,6 +45,7 @@ white :     #FFFFFF
 dark white: #f9f6f7
 beige:      #ffe8d6
 orange:     #ff971d
+balck:      ##232b2b
 
 */
 
@@ -58,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #363434;
 }
 
-p, a {
+p, a, ul, li {
   font-family: 'Roboto', serif;
   font-size: 14px;
   color: #363434;
@@ -103,26 +104,69 @@ p, a {
 }
 
 .landing-page-content-card {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.landing-page-content-card a, p {
+  color: #232b2b;
+  text-decoration: none;
 }
 
 .algorithm-visualization-cell {
-  height: 200px;
-  width: 300px;
-  background-color: #ff971d;
+  height: auto;
+  width: 250px;
+  background-color: #FFFFFF;
+  text-align: center;
   border: 2px solid #232b2b;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .algorithm-visualization-cell:hover {
-  transition: 0.2s;
+  transition: 0.5s;
   cursor: pointer;
-  border-color: #ff971d;
+  border-color: #FF7D38;
   border-style: dashed;
+  -webkit-box-shadow: 0px 0px 23px 0px rgba(243,156,18,1);
+  -moz-box-shadow: 0px 0px 23px 0px rgba(243,156,18,1);
+  box-shadow: 0px 0px 23px 0px rgba(243,156,18,1);
+  color: #FF7D38;
 }
 
+.algorithm-visualization-cell img {
+  height: 50px;
+  width: auto;
+  margin-bottom: 20px
+}
 
+.algorithm-visualization-cell span {
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
+.algorithm-visualization-cell p {
+  font-size: 20px;
+}
+
+.landing-page-footer {
+  background-color: #232b2b;
+  color: white;
+  padding: 50px;
+  margin-top: 40px;
+}
+
+.landing-page-footer ul, li, ul p{
+  color: white;
+  font-family: "Roboto";
+}
 
 
 /* Mobile Small  --------------------------------------------------------- */
