@@ -13,8 +13,6 @@
   <link rel="icon" href="../branding/logo.png" />
   <!-- GOOGLE FONTS -->
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <!-- FONT AWSOME -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- CSS LINKS-->
   <link rel="stylesheet" type="text/css" href="static/navigation.css" />
@@ -29,15 +27,30 @@
   <!-- Search Visulization Navigation -->
   <div id="serch_visualization_navigation" class="serch_visualization_navigation"></div>
 
-
   <!-- Main Content -->
+  <div id="main_content" class="main_content">
+      <h2>Linear Search</h2>
 
+      <input placeholder="Search Value" />
+      <button>Visualize</button>
+      <div id="steps_amount">
+        <h4>Step amount: 0</h4>
+      </div>
 
+      <div id="box_container">
 
+        <!--
+        <div id="box_cell">
+          <h3 id="box_cell_value">0</h3>
+        </div>
+      -->
 
+      </div>
+  </div>
 
   <script src="static/navigation.js"></script>
-  <script src="static/footer.js"></script>
+  <script src="linear_search.js"></script>
+
 </body>
 
 </html>

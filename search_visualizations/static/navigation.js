@@ -2,6 +2,7 @@
 let navigation = document.getElementById("navigation");
 let search_visualization_navigation = document.getElementById("serch_visualization_navigation");
 
+// Top Navigation HTML part
 navigation.innerHTML = ('\
 <div class="navigation">\
 <a href="../index.html"><img src="../branding/logo.png" height="45px" width="45px"/></a>\
@@ -12,6 +13,7 @@ navigation.innerHTML = ('\
 </div>\
 ');
 
+// Search visualizations specific navigation part
 search_visualization_navigation.innerHTML = (`\
 <div id="serch_visualization_navigation" class="serch_visualization_navigation">\
   <a href="./linear_search.html">Linear Search</a>\
