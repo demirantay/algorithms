@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', serif;
+  color: #363434;
+}
+
+p, a, ul, li {
+  font-family: 'Roboto', serif;
+  font-size: 14px;
+  color: #363434;
+}
+
+.navigation {
+  padding-top: 30px;
+  padding-left: 15%;
+  padding-right: 15%:
+  border: 1px solid transparent;
+  margin-bottom: 40px;
+}
+
+.navigation img {
+  display: inline-block !important;
+  margin-top: -15px;
+}
+
+.navigation a {
+  display: inline-block;
+  color: #232b2b;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.navigation a:hover {
+    color: #ff971d;
+    transition: 0.3s;
+}
+
+.navigation_top_links {
+  float: right;
+  margin-right: 10%;
+}
+
+.serch_visualization_navigation {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.serch_visualization_navigation a {
+  color: white;
+  background-color: #232b2b;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 4px 8px;
+  text-decoration: none;
+}
+
+.serch_visualization_navigation a:hover {
+  transition: 0.5s;
+  background-color: #ff971d;
+}
+
+.serch_visualization_navigation h2 {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 10px;
+}
+
+
+/* Mobile Small  --------------------------------------------------------- */
+@media screen and (min-width: 0px) and (max-width: 320px) {
+
+
+}
+
+
+/* Mobile Medium  --------------------------------------------------------- */
+@media screen and (min-width: 321px) and (max-width: 375px) {
+
+}
+
+
+/* Mobile Large - --------------------------------------------------------- */
+@media screen and (min-width: 376px) and (max-width: 425px) {
+
+}
+
+
+/* Tablet - --------------------------------------------------------------- */
+@media screen and (min-width: 426px) and (max-width: 768px) {
+
+}
+
+
+/* Laptop ------------------------------------------------------------------ */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Nothing to do for now does not break too much */
+}
+
+
+/* Laptop Large -------------------------------------------------------------*/
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+  /* Nothing to do for now does not break too much */
+}
+
+
+/* 4K Large Desktop ------------------------------------------------------- */
+@media screen and (min-width: 1441px) {
+  /* Nothing to do for now does not break too much */
+}
