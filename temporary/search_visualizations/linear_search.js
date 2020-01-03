@@ -12,7 +12,8 @@ function generate_box() {
   return `<div id="box_cell"><h3 id="box_cell_value"> ${value} </h3></div>`;
 }
 
-
+// Instead of generating a random number i may populate the array with pre-set
+// values beacause why make the algorithm harder ? It is just a visualization tool
 
 
 for (i = 0; i < 10; i++) {
