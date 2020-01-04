@@ -14,10 +14,10 @@
 
 ## Data Structures
 
-- [Queue](./python/data-structures/queue/)  
-- [Stack](./python/data-structures/stack/)
-- [Linked List](./python/data-structures/linked-list/)
-- [Doubly Linked List](./python/data-structures/doubly-linked-list/)
+- [Queue](./python/data-structures/queue.py)  
+- [Stack](./python/data-structures/stack.py)
+- [Linked List](./python/data-structures/linked-list.py)
+- [Doubly Linked List](./python/data-structures/doubly-linked-list.py)
 
 <br>
 
@@ -28,11 +28,11 @@
 - **Sets**
   - ...
 - **Strings**
-  - [Hamming Distance](./algorithms/strings/hamming_distance/)
+  - [Hamming Distance](./algorithms/strings/hamming_distance.py)
 - **Searches**
-  - ...
+  - [Linear Search](./algorithms/search/linear_search.py)
 - **Sorting**
-  - ...
+  - [Bubble Sort](./algorithms/sort/bubble_sort.py)
 - **Linked Lists**
   - ...
 - **Trees**
