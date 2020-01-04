@@ -10,7 +10,7 @@
   <br>
 </p>
 
-> The link listed below point to the python code. You can also find different language implementations of the algorithms and data structures.
+> The links listed below point to the python code. If you search above ou can also find different language implementations of the algorithms and data structures in the file tree.
 
 ## Data Structures
 
