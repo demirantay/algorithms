@@ -28,11 +28,12 @@
 - **Sets**
   - ...
 - **Strings**
-  - [Hamming Distance](./algorithms/strings/hamming_distance.py)
+  - [Hamming Distance](./python/strings/hamming_distance.py)
 - **Searches**
-  - [Linear Search](./algorithms/search/linear_search.py)
+  - [Linear Search](./python/search/linear_search.py)
 - **Sorting**
-  - [Bubble Sort](./algorithms/sort/bubble_sort.py)
+  - [Bubble Sort](./python/sort/bubble_sort.py)
+  - [Selection Sort](./python/sort/selection_sort.py)
 - **Linked Lists**
   - ...
 - **Trees**
