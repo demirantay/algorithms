@@ -24,7 +24,7 @@
 ## Algorithms
 
 - **Math**
-  - ...
+  - [Factorial](./python/math/factorial.py)
 - **Sets**
   - ...
 - **Strings**

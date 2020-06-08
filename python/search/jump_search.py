@@ -20,6 +20,8 @@ def jump_search(array, searched_element):
     # Step 2: Compare A[i] with item. If A[i] != item and A[i] < item, then
     # jump to the next block. Also, do the following: Set i = m
     # Increment m by √n
+    while
+
 
     for i in range(len(array)):
         if array[i] == searched_element:
