@@ -25,6 +25,7 @@
 
 - **Math**
   - [Factorial](./python/math/factorial.py)
+  - [Fibonacci Number](./python/math/fibonacci.py)
 - **Sets**
   - ...
 - **Strings**
