@@ -26,6 +26,7 @@
 - **Math**
   - [Factorial](./python/math/factorial.py)
   - [Fibonacci Number](./python/math/fibonacci.py)
+  - [Primality Test](./python/math/prime.py)
 - **Sets**
   - ...
 - **Strings**
