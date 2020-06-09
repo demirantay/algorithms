@@ -5,7 +5,7 @@ math:
 - [x] fibonacci
 - [x] prime
 - [x] euclidean
-- [ ] Least Common Multiple (LCM)
+- [x] Least Common Multiple (LCM)
 - [ ] Sieve of Eratosthenes
 - [ ] Is Power of Two
 - [ ] Pascal's Triangle

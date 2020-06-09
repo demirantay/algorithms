@@ -29,6 +29,7 @@
   - [Primality Test](./python/math/prime.py)
   - [Euclidean Algorithm](./python/math/gcd.py)
   - [Least Common Multiple (LCM)](./python/math/lcm.py)
+  - [Sieve of Eratosthenes](./python/math/sieve_of_erat.py)
 - **Sets**
   - ...
 - **Strings**
