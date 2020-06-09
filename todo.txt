@@ -6,7 +6,7 @@ math:
 - [x] prime
 - [x] euclidean
 - [x] Least Common Multiple (LCM)
-- [ ] Sieve of Eratosthenes
+- [x] Sieve of Eratosthenes
 - [ ] Is Power of Two
 - [ ] Pascal's Triangle
 - [ ] Complex Number
