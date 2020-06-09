@@ -1,5 +1,24 @@
 ### implementations
 
+data structures:
+- [ ] Linked List
+- [ ] Doubly Linked List
+- [ ] Queue
+- [ ] Stack
+- [ ] Hash Table
+- [ ] Heap - max and min heap versions
+- [ ] Priority Queue
+- [ ] Trie
+- [ ] Tree
+  - [ ] Binary Search Tree
+  - [ ] AVL Tree
+  - [ ] Red-Black Tree
+  - [ ] Segment Tree - with min/max/sum range queries examples
+  - [ ] Fenwick Tree (Binary Indexed Tree)
+- [ ] Graph (both directed and undirected)
+- [ ] Disjoint Set
+- [ ] Bloom Filter
+
 math:
 - [x] factorial
 - [x] fibonacci
@@ -7,7 +26,7 @@ math:
 - [x] euclidean
 - [x] Least Common Multiple (LCM)
 - [x] Sieve of Eratosthenes
-- [ ] Is Power of Two
+- [x] Is Power of Two
 - [ ] Pascal's Triangle
 - [ ] Complex Number
 - [ ] Radian & Degree
@@ -97,7 +116,24 @@ uncategorized:
 
 ### testing
 
-### implementations
+data structures:
+- [ ] Linked List
+- [ ] Doubly Linked List
+- [ ] Queue
+- [ ] Stack
+- [ ] Hash Table
+- [ ] Heap - max and min heap versions
+- [ ] Priority Queue
+- [ ] Trie
+- [ ] Tree
+  - [ ] Binary Search Tree
+  - [ ] AVL Tree
+  - [ ] Red-Black Tree
+  - [ ] Segment Tree - with min/max/sum range queries examples
+  - [ ] Fenwick Tree (Binary Indexed Tree)
+- [ ] Graph (both directed and undirected)
+- [ ] Disjoint Set
+- [ ] Bloom Filter
 
 math:
 - [ ] factorial
@@ -198,7 +234,24 @@ uncategorized:
 
 ### documentation
 
-### implementations
+data structures:
+- [ ] Linked List
+- [ ] Doubly Linked List
+- [ ] Queue
+- [ ] Stack
+- [ ] Hash Table
+- [ ] Heap - max and min heap versions
+- [ ] Priority Queue
+- [ ] Trie
+- [ ] Tree
+  - [ ] Binary Search Tree
+  - [ ] AVL Tree
+  - [ ] Red-Black Tree
+  - [ ] Segment Tree - with min/max/sum range queries examples
+  - [ ] Fenwick Tree (Binary Indexed Tree)
+- [ ] Graph (both directed and undirected)
+- [ ] Disjoint Set
+- [ ] Bloom Filter
 
 math:
 - [ ] factorial

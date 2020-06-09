@@ -30,7 +30,8 @@
   - [Euclidean Algorithm](./python/math/gcd.py)
   - [Least Common Multiple (LCM)](./python/math/lcm.py)
   - [Sieve of Eratosthenes](./python/math/sieve_of_erat.py)
-  - [Is Power of Two](./python/math/power_of_two)
+  - [Is Power of Two](./python/math/power_of_two.py)
+  - [Pascal's Triangle](./python/math/pascal_triangle.py)
 - **Sets**
   - ...
 - **Strings**
