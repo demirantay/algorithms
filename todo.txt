@@ -30,7 +30,7 @@ math:
 
 sets:
 - [x] Cartesian Product
-- [ ] Fisher–Yates Shuffle
+- [x] Fisher–Yates Shuffle
 - [ ] Power Set
 - [ ] Permutations
 - [ ] Combinations
