@@ -1,4 +1,0 @@
-def pascal_triangle():
-    """
-
-    """

@@ -27,10 +27,6 @@ math:
 - [x] Least Common Multiple (LCM)
 - [x] Sieve of Eratosthenes
 - [x] Is Power of Two
-- [ ] Pascal's Triangle
-- [ ] Complex Number
-- [ ] Radian & Degree
-- [ ] Fast Powering
 
 sets:
 - [ ] Cartesian Product
@@ -143,10 +139,6 @@ math:
 - [ ] Least Common Multiple (LCM)
 - [ ] Sieve of Eratosthenes
 - [ ] Is Power of Two
-- [ ] Pascal's Triangle
-- [ ] Complex Number
-- [ ] Radian & Degree
-- [ ] Fast Powering
 
 sets:
 - [ ] Cartesian Product
@@ -261,10 +253,6 @@ math:
 - [ ] Least Common Multiple (LCM)
 - [ ] Sieve of Eratosthenes
 - [ ] Is Power of Two
-- [ ] Pascal's Triangle
-- [ ] Complex Number
-- [ ] Radian & Degree
-- [ ] Fast Powering
 
 sets:
 - [ ] Cartesian Product
