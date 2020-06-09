@@ -27,6 +27,8 @@
   - [Factorial](./python/math/factorial.py)
   - [Fibonacci Number](./python/math/fibonacci.py)
   - [Primality Test](./python/math/prime.py)
+  - [Euclidean Algorithm](./python/math/gcd.py)
+  - [Least Common Multiple (LCM)](./python/math/lcm.py)
 - **Sets**
   - ...
 - **Strings**
