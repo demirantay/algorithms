@@ -29,7 +29,7 @@ math:
 - [x] Is Power of Two
 
 sets:
-- [ ] Cartesian Product
+- [x] Cartesian Product
 - [ ] Fisher–Yates Shuffle
 - [ ] Power Set
 - [ ] Permutations

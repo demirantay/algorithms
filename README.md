@@ -32,7 +32,8 @@
   - [Sieve of Eratosthenes](./python/math/sieve_of_erat.py)
   - [Is Power of Two](./python/math/power_of_two.py)
 - **Sets**
-  - ...
+  - [Cartesian Product](./python/sets/cartesian_product.py)
+  - [Fisher–Yates Shuffle](./python/sets/fisher_yates_shuffle.py)
 - **Strings**
   - [Hamming Distance](./python/strings/hamming_distance.py)
 - **Searches**
