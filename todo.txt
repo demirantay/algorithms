@@ -1,10 +1,10 @@
 ### implementations
 
 data structures:
-- [ ] Linked List
-- [ ] Doubly Linked List
-- [ ] Queue
-- [ ] Stack
+- [x] Linked List
+- [x] Doubly Linked List
+- [x] Queue
+- [x] Stack
 - [ ] Hash Table
 - [ ] Heap - max and min heap versions
 - [ ] Priority Queue
@@ -31,7 +31,6 @@ math:
 sets:
 - [x] Cartesian Product
 - [x] Fisher–Yates Shuffle
-- [ ] Power Set
 - [ ] Permutations
 - [ ] Combinations
 - [ ] Longest Common Subsequence (LCS)
@@ -136,6 +135,7 @@ math:
 - [ ] fibonacci
 - [ ] prime
 - [ ] euclidean
+
 - [ ] Least Common Multiple (LCM)
 - [ ] Sieve of Eratosthenes
 - [ ] Is Power of Two
@@ -151,6 +151,7 @@ sets:
 - [ ] Shortest Common Supersequence (SCS)
 - [ ] Knapsack Problem
 - [ ] Maximum Subarray
+
 - [ ] Combination Sum
 
 strings:
@@ -191,11 +192,11 @@ graphs:
 - [ ] Depth-First Search (DFS)
 - [ ] Breadth-First Search (BFS)
 - [ ] Kruskal’s Algorithm
-- [ ] Dijkstra Algorithm
+- [ ] Dijkstra Algorithm  **
 - [ ] Bellman-Ford Algorithm
 - [ ] Floyd-Warshall Algorithm
 - [ ] Detect Cycle
-- [ ] Prim’s Algorithm
+- [ ] Prim’s Algorithm  **
 - [ ] Topological Sorting
 - [ ] Articulation Points
 - [ ] Bridges
@@ -304,7 +305,7 @@ trees:
 graphs:
 - [ ] Depth-First Search (DFS)
 - [ ] Breadth-First Search (BFS)
-- [ ] Kruskal’s Algorithm
+- [ ] Kruskal’s Algorithm  **
 - [ ] Dijkstra Algorithm
 - [ ] Bellman-Ford Algorithm
 - [ ] Floyd-Warshall Algorithm
