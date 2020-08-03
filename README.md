@@ -31,23 +31,18 @@
   - [Least Common Multiple (LCM)](./math/lcm.py)
   - [Sieve of Eratosthenes](./math/sieve_of_erat.py)
   - [Is Power of Two](./math/power_of_two.py)
-- **Sets**
-  - [Cartesian Product](./sets/cartesian_product.py)
-  - [Fisher–Yates Shuffle](./sets/fisher_yates_shuffle.py)
-- **Strings**
-  - [Hamming Distance](./strings/hamming_distance.py)
 - **Searches**
   - [Linear Search](./search/linear_search.py)
 - **Sorting**
   - [Bubble Sort](./sort/bubble_sort.py)
   - [Selection Sort](./sort/selection_sort.py)
-- **Linked Lists**
+- **Bruteforce**
   - ...
-- **Trees**
+- **Greedy**
   - ...
-- **Graphs**
+- **Divide and Conquer**
   - ...
-- **Cryptography**
+- **Dynamic Programming**
   - ...
-- **Uncategorized**
+- **Backtracking**
   - ...
