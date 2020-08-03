@@ -12,33 +12,35 @@
 
 ## Data Structures
 
-- [Queue](./python/data-structures/queue.py)  
-- [Stack](./python/data-structures/stack.py)
-- [Linked List](./python/data-structures/linked-list.py)
-- [Doubly Linked List](./python/data-structures/doubly-linked-list.py)
+- [Queue](./data-structures/queue.py)  
+- [Stack](./data-structures/stack.py)
+- [Linked List](./data-structures/linked-list.py)
+- [Doubly Linked List](./data-structures/doubly-linked-list.py)
+- [Hash Table (unfinished)](./data-structures/hash-table.py)
+- [Heap-max/min (unfinished)](./data-structures/heap.py)
 
 <br>
 
 ## Algorithms
 
 - **Math**
-  - [Factorial](./python/math/factorial.py)
-  - [Fibonacci Number](./python/math/fibonacci.py)
-  - [Primality Test](./python/math/prime.py)
-  - [Euclidean Algorithm](./python/math/gcd.py)
-  - [Least Common Multiple (LCM)](./python/math/lcm.py)
-  - [Sieve of Eratosthenes](./python/math/sieve_of_erat.py)
-  - [Is Power of Two](./python/math/power_of_two.py)
+  - [Factorial](./math/factorial.py)
+  - [Fibonacci Number](./math/fibonacci.py)
+  - [Primality Test](./math/prime.py)
+  - [Euclidean Algorithm](./math/gcd.py)
+  - [Least Common Multiple (LCM)](./math/lcm.py)
+  - [Sieve of Eratosthenes](./math/sieve_of_erat.py)
+  - [Is Power of Two](./math/power_of_two.py)
 - **Sets**
-  - [Cartesian Product](./python/sets/cartesian_product.py)
-  - [Fisher–Yates Shuffle](./python/sets/fisher_yates_shuffle.py)
+  - [Cartesian Product](./sets/cartesian_product.py)
+  - [Fisher–Yates Shuffle](./sets/fisher_yates_shuffle.py)
 - **Strings**
-  - [Hamming Distance](./python/strings/hamming_distance.py)
+  - [Hamming Distance](./strings/hamming_distance.py)
 - **Searches**
-  - [Linear Search](./python/search/linear_search.py)
+  - [Linear Search](./search/linear_search.py)
 - **Sorting**
-  - [Bubble Sort](./python/sort/bubble_sort.py)
-  - [Selection Sort](./python/sort/selection_sort.py)
+  - [Bubble Sort](./sort/bubble_sort.py)
+  - [Selection Sort](./sort/selection_sort.py)
 - **Linked Lists**
   - ...
 - **Trees**
