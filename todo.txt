@@ -41,7 +41,7 @@ sets:
 - [ ] Combination Sum
 
 strings:
-- [ ] hamming distance
+- [x] hamming distance
 - [ ] Levenshtein Distance
 - [ ] Knuth–Morris–Pratt Algorithm
 - [ ] Z Algorithm
@@ -50,7 +50,7 @@ strings:
 - [ ] Regular Expression Matching
 
 searches:
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Jump Search
 - [ ] Binary Search
 - [ ] Interpolation Search

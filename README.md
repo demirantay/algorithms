@@ -5,12 +5,10 @@
 <h3 align="center">Algorithms</h3>
 
 <p align="center">
-  My implementation of algorithms and data structures in different programming languages.
+  My implementation of algorithms and data structures in python.
   <br>
   <br>
 </p>
-
-> The links listed below point to the python code. If you search above ou can also find different language implementations of the algorithms and data structures in the file tree.
 
 ## Data Structures
 
