@@ -36,8 +36,9 @@
 - **Sorting**
   - [Bubble Sort](./sort/bubble_sort.py)
   - [Selection Sort](./sort/selection_sort.py)
+  - [Insertion Sort](./sort/insertion_sort.py)
 - **Bruteforce**
-  - ...
+  - [Linear Search](./search/linear_search.py)
 - **Greedy**
   - ...
 - **Divide and Conquer**
